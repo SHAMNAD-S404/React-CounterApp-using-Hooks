@@ -49,3 +49,11 @@
     transform: scale(0.95);
   }
   
+  .user-info{
+    background-color: rgb(247 247 247 / 48%);
+    text-align: center;
+    width: 21%;
+    height: 35%;
+    margin-top: 2rem;
+    border-radius: 2rem;
+  }
